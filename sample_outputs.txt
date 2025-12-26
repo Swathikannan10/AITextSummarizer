@@ -1,0 +1,19 @@
+Input:
+Artificial Intelligence is the ability of machines to perform tasks
+that normally require human intelligence. It includes learning,
+reasoning, problem-solving and decision-making abilities.
+
+Output:
+Artificial Intelligence allows machines to perform tasks similar to
+human intelligence. It helps machines learn, reason and solve problems.
+
+---
+
+Input:
+Machine Learning is a subset of Artificial Intelligence that allows
+systems to learn from data and improve their performance without being
+explicitly programmed.
+
+Output:
+Machine Learning enables systems to learn from data and improve their
+performance automatically without explicit programming.
